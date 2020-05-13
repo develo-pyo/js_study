@@ -1,4 +1,5 @@
 // https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Closures
+// https://opentutorials.org/course/743/6544
 //클로져 예 1
 function makeFunc() {
     var name = "Mozilla";
